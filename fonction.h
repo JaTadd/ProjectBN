@@ -130,7 +130,7 @@ void construire_gateau(Gateau* gateau, Element_str* l_gouts);
 
 //-------------------------//
 
-/*
+/* hmmmm
  ici, on deguste les gateaux dans l'odre, c'est a dire qu'a chaquoi fois qu'il est mangé, on le supprime et on libére son espace memoire associé.
  on pernd en paramétre le nombre de parts qu'il souhaite manger, si il finit pas un gateau on ne le supprime pas, on supprime juste les etages qu'il a mangé
  lors de la prochiane degustation vu que l'odre importe, le client finara le gateau deja entamé
